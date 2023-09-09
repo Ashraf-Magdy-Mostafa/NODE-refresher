@@ -1,0 +1,7 @@
+textarea:hover {
+  border-color: red;
+}
+textarea {
+  margin: 10px;
+  padding: 100px;
+}
